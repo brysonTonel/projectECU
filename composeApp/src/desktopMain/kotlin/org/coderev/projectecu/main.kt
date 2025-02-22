@@ -23,7 +23,7 @@ fun DashboardScreen() {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "PROJECT ECU By CodeRev (BT)",
+            text = "PROJECT ECU (Diagnostic Tool) For Yamaha and Honda by codeRev",
             fontSize = 32.sp,
             textAlign = TextAlign.Center
         )
